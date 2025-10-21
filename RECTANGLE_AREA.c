@@ -14,3 +14,4 @@ int main(){
      
     return 0;
 }
+//this file calculates the area of a rectangle by taking the length and breath as a input from the user
